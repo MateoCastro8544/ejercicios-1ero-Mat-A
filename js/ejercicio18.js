@@ -7,7 +7,7 @@
 	var num = new Number();
 	cont = 0;
 	do {
-		alert5("ingrese el numero",'<BR/>');
+		alert("ingrese el numero",'<BR/>');
 		cont = cont+1;
 		n = Number(prompt());
 		if (cont==1) {

@@ -37,8 +37,11 @@ body{
     font-size: 30px;
     margin-top: 200px;
     margin-left: 600px;
-    text-align: center;
     background-color: gray ;
-    opacity:0.8
-    
+    opacity:0.8;
+    padding-left: 0px;
+}
+
+h3{
+    text-align: center;
 }

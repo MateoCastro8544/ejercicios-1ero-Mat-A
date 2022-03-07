@@ -4,7 +4,7 @@
 	var suma;
 	var val1 = new Number();
 	var val2 = new Number();
-	alert("Ingrse el valor 1",'<BR/>');
+	alert("Ingrese el valor 1",'<BR/>');
 	val1 = Number(prompt());
 	alert("ingrese el valor 2",'<BR/>');
 	val2 = Number(prompt());
